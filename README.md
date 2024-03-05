@@ -2,13 +2,22 @@
 
 Informações sobre o curso acesse [aqui](https://www.fiap.com.br/live/mba/mba-em-data-science-artificial-intelligence/).
 
-![alt text](images/mle.png)
+![](images/mle.png)
 
 Este repositório reúne todos os notebooks, imagens, modelos e demais materiais necessário para a condução das aulas e revisão das mesmas.
 
 ## Machine Learning Engineering aka MLOps
 
 Nossas aulas utilizará o [VSCode](https://code.visualstudio.com/). Para instalar click no link e baixe o instalador.
+
+Utilize o Codespaces como alternativa a sua IDE. Mas utilize com cautela pois os créditos na versão gratuita são limitados.
+
+![](images/codespaces.gif)
+
+E não esqueça de desligar.
+
+![](images/shutdown.gif)
+
 
 ## Aula 1: Introdução a machine learning engineering
 
