@@ -20,7 +20,10 @@ Nossas aulas utilizará o [VSCode](https://code.visualstudio.com/). Para instala
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/michelpf/fiap-ds-machine-learning-engineering/tree/main/aula-1/unit-testing-linting)
 
-### Desafio
+### Desafio 1
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/michelpf/fiap-ds-machine-learning-engineering/tree/main/aula-1/desafio-1)
+
+### Desafio 1
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/michelpf/fiap-ds-machine-learning-engineering/tree/main/aula-1/desafio-2)
