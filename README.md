@@ -17,7 +17,8 @@ Nossas aulas utilizará o [VSCode](https://code.visualstudio.com/). Para instala
 3. Práticas de engenharia de Software
 4. Desafios de projeto de machine learning
 
-Testes de unidade e linting: [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/michelpf/fiap-ds-machine-learning-engineering/tree/main/aula-1/unit-testing-linting)
+Testes de unidade e linting
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/michelpf/fiap-ds-machine-learning-engineering/tree/main/aula-1/unit-testing-linting)
 
 ### Desafio
 
