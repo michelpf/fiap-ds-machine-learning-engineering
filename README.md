@@ -2,7 +2,7 @@
 
 Informações sobre o curso acesse [aqui](https://www.fiap.com.br/live/mba/mba-em-data-science-artificial-intelligence/).
 
-![alt text](image/mle.png)
+![alt text](images/mle.png)
 
 Este repositório reúne todos os notebooks, imagens, modelos e demais materiais necessário para a condução das aulas e revisão das mesmas.
 
