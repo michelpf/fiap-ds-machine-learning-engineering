@@ -7,7 +7,8 @@ def get_product(product_id):
         results = requests.get("https://dummyjson.com/products/"+str(product_id), timeout=5)
         if results.status_code == 200:
             return results
-    except Exception as e:
+        return None
+    except requests.RequestException as e:
         print(e)
         return None
 
